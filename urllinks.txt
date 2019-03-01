@@ -1,0 +1,5 @@
+https://www.x-rates.com/calculator/?from=USD&to=ILS&amount=1
+https://www.x-rates.com/calculator/?from=ILS&to=USD&amount=1
+https://www.x-rates.com/calculator/?from=EUR&to=ILS&amount=1
+https://www.x-rates.com/calculator/?from=ILS&to=EUR&amount=1
+
